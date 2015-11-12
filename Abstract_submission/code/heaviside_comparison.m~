@@ -1,0 +1,11 @@
+clc;
+clear all;
+close all;
+format short g;
+% ----------------------------------------------------------------------- %
+phi = @(r) K * exp(-K * r) ./ (1 + exp(-K * r)).^2.0;
+
+r = linspace(-3, 3, 100);
+
+figure,
+plot
