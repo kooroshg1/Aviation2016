@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.13)  16 NOV 2015 10:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.13)  16 NOV 2015 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,6 +519,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen150
+)
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -820,9 +823,6 @@ Now handling font encoding PD1 ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen150
-)
 (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
@@ -1115,28 +1115,28 @@ Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 ) (./Rev5.aux)
 \openout1 = `Rev5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 48.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1195,9 +1195,9 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 48.
+(lastpage)             ! on input line 49.
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring ON on input line 48.
+Package hyperref Info: Link coloring ON on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1206,39 +1206,39 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count176
 )
-LaTeX Info: Redefining \ref on input line 48.
-LaTeX Info: Redefining \pageref on input line 48.
-LaTeX Info: Redefining \nameref on input line 48.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
 
 (./Rev5.out) (./Rev5.out)
 \@outlinefile=\write3
 \openout3 = `Rev5.out'.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Try loading font information for U+msa on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 52.
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 52.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 53.
 
-Overfull \hbox (1.05623pt too wide) in paragraph at lines 53--54
+Overfull \hbox (1.05623pt too wide) in paragraph at lines 54--55
 []\T1/ptm/m/n/12 Fluid-structure in-ter-ac-tion (FSI) plays promi-nent roles in
  many sci-en-tific and en-gi-neer-ing fields,
  []
@@ -1250,44 +1250,44 @@ Overfull \hbox (1.05623pt too wide) in paragraph at lines 53--54
 File: figure/conforming_t1.jpg Graphic file (type jpg)
 
 <use figure/conforming_t1.jpg>
-Package pdftex.def Info: figure/conforming_t1.jpg used on input line 67.
+Package pdftex.def Info: figure/conforming_t1.jpg used on input line 68.
 (pdftex.def)             Requested size: 142.4615pt x 142.26378pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 
 <figure/conforming_t2.jpg, id=62, 543.53062pt x 540.51938pt>
 File: figure/conforming_t2.jpg Graphic file (type jpg)
 
 <use figure/conforming_t2.jpg>
-Package pdftex.def Info: figure/conforming_t2.jpg used on input line 72.
+Package pdftex.def Info: figure/conforming_t2.jpg used on input line 73.
 (pdftex.def)             Requested size: 143.05627pt x 142.26378pt.
 
 <figure/nonconforming_t1.jpg, id=63, 542.025pt x 541.27219pt>
 File: figure/nonconforming_t1.jpg Graphic file (type jpg)
 
 <use figure/nonconforming_t1.jpg>
-Package pdftex.def Info: figure/nonconforming_t1.jpg used on input line 77.
+Package pdftex.def Info: figure/nonconforming_t1.jpg used on input line 78.
 (pdftex.def)             Requested size: 142.4615pt x 142.26378pt.
 
 <figure/nonconforming_t2.jpg, id=64, 543.53062pt x 542.025pt>
 File: figure/nonconforming_t2.jpg Graphic file (type jpg)
 
 <use figure/nonconforming_t2.jpg>
-Package pdftex.def Info: figure/nonconforming_t2.jpg used on input line 82.
+Package pdftex.def Info: figure/nonconforming_t2.jpg used on input line 83.
 (pdftex.def)             Requested size: 142.65819pt x 142.26378pt.
  [2] [3pdfTeX warning (ext4): destination with the same identifier (name{figure
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.91 
+l.92 
       <./figure/conforming_t1.jpg> <./figure/conforming_t2.jpg> <./figure/nonco
 nforming_t1.jpg> <./figure/nonconforming_t2.jpg>] [4]
 <figure/immerdBoundary.jpg, id=124, 741.52031pt x 515.67656pt>
 File: figure/immerdBoundary.jpg Graphic file (type jpg)
 
 <use figure/immerdBoundary.jpg>
-Package pdftex.def Info: figure/immerdBoundary.jpg used on input line 144.
+Package pdftex.def Info: figure/immerdBoundary.jpg used on input line 145.
 (pdftex.def)             Requested size: 245.48317pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/heaviside_comparison.eps>
 (epstopdf)                    date: 2015-10-30 22:37:16
@@ -1298,7 +1298,7 @@ to.pdf>
 (epstopdf)                    size: 16196 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/heaviside_compariso
 n-eps-converted-to.pdf figure/heaviside_comparison.eps>
-(epstopdf)             \includegraphics on input line 173.
+(epstopdf)             \includegraphics on input line 174.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/heaviside_comparison-eps-converted-to.pdf, id=129, 1489.565pt x 803.0pt
@@ -1306,53 +1306,53 @@ Package epstopdf Info: Output file is already uptodate.
 File: figure/heaviside_comparison-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/heaviside_comparison-eps-converted-to.pdf>
 Package pdftex.def Info: figure/heaviside_comparison-eps-converted-to.pdf used 
-on input line 173.
+on input line 174.
 (pdftex.def)             Requested size: 316.6818pt x 170.71652pt.
  [5pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.178 
+l.179 
        <./figure/immerdBoundary.jpg>]
 <figure/mapping_1.png, id=145, 237.88875pt x 274.77657pt>
 File: figure/mapping_1.png Graphic file (type png)
 
 <use figure/mapping_1.png>
-Package pdftex.def Info: figure/mapping_1.png used on input line 208.
+Package pdftex.def Info: figure/mapping_1.png used on input line 209.
 (pdftex.def)             Requested size: 123.16925pt x 142.26378pt.
 
 <figure/mapping_2.png, id=147, 234.8775pt x 280.04625pt>
 File: figure/mapping_2.png Graphic file (type png)
 
 <use figure/mapping_2.png>
-Package pdftex.def Info: figure/mapping_2.png used on input line 213.
+Package pdftex.def Info: figure/mapping_2.png used on input line 214.
 (pdftex.def)             Requested size: 119.32361pt x 142.26378pt.
 
 <figure/mapping_3.png, id=148, 241.65282pt x 279.29344pt>
 File: figure/mapping_3.png Graphic file (type png)
 
 <use figure/mapping_3.png>
-Package pdftex.def Info: figure/mapping_3.png used on input line 218.
+Package pdftex.def Info: figure/mapping_3.png used on input line 219.
 (pdftex.def)             Requested size: 123.09381pt x 142.26378pt.
  [6pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.227 
+l.228 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.227 
+l.228 
        <./figure/heaviside_comparison-eps-converted-to.pdf> <./figure/mapping_1
 .png> <./figure/mapping_2.png> <./figure/mapping_3.png>]
 <figure/domain.jpg, id=173, 605.26125pt x 472.76625pt>
 File: figure/domain.jpg Graphic file (type jpg)
  <use figure/domain.jpg>
-Package pdftex.def Info: figure/domain.jpg used on input line 231.
+Package pdftex.def Info: figure/domain.jpg used on input line 232.
 (pdftex.def)             Requested size: 218.55882pt x 170.71652pt.
 
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
@@ -1360,13 +1360,13 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.271 \end{equation}
+l.272 \end{equation}
                      <./figure/domain.jpg>] [8]
 <figure/cylinder/domain.png, id=212, 575.90157pt x 362.10281pt>
 File: figure/cylinder/domain.png Graphic file (type png)
 
 <use figure/cylinder/domain.png>
-Package pdftex.def Info: figure/cylinder/domain.png used on input line 355.
+Package pdftex.def Info: figure/cylinder/domain.png used on input line 356.
 (pdftex.def)             Requested size: 271.51738pt x 170.71652pt.
  [9]
 Package epstopdf Info: Source file: <figure/cylinder/P_RE100.eps>
@@ -1378,7 +1378,7 @@ df>
 (epstopdf)                    size: 135685 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/P_RE100-ep
 s-converted-to.pdf figure/cylinder/P_RE100.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 368.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/P_RE100-eps-converted-to.pdf, id=224, 883.3pt x 742.775pt>
@@ -1386,7 +1386,7 @@ File: figure/cylinder/P_RE100-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/P_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/P_RE100-eps-converted-to.pdf used on i
-nput line 367.
+nput line 368.
 (pdftex.def)             Requested size: 169.17654pt x 142.26378pt.
 Package epstopdf Info: Source file: <figure/cylinder/P_RE1000.eps>
 (epstopdf)                    date: 2015-11-01 23:50:52
@@ -1397,7 +1397,7 @@ pdf>
 (epstopdf)                    size: 139617 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/P_RE1000-e
 ps-converted-to.pdf figure/cylinder/P_RE1000.eps>
-(epstopdf)             \includegraphics on input line 372.
+(epstopdf)             \includegraphics on input line 373.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/P_RE1000-eps-converted-to.pdf, id=225, 882.29625pt x 741.77126
@@ -1405,7 +1405,7 @@ pt>
 File: figure/cylinder/P_RE1000-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/P_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/P_RE1000-eps-converted-to.pdf used on 
-input line 372.
+input line 373.
 (pdftex.def)             Requested size: 169.21317pt x 142.26378pt.
 Package epstopdf Info: Source file: <figure/cylinder/U_RE100.eps>
 (epstopdf)                    date: 2015-11-01 23:52:08
@@ -1416,7 +1416,7 @@ df>
 (epstopdf)                    size: 43243 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/U_RE100-ep
 s-converted-to.pdf figure/cylinder/U_RE100.eps>
-(epstopdf)             \includegraphics on input line 377.
+(epstopdf)             \includegraphics on input line 378.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/U_RE100-eps-converted-to.pdf, id=226, 894.34125pt x 741.77126p
@@ -1424,7 +1424,7 @@ t>
 File: figure/cylinder/U_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/U_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/U_RE100-eps-converted-to.pdf used on i
-nput line 377.
+nput line 378.
 (pdftex.def)             Requested size: 171.52324pt x 142.26378pt.
 Package epstopdf Info: Source file: <figure/cylinder/U_RE1000.eps>
 (epstopdf)                    date: 2015-11-01 23:52:36
@@ -1435,7 +1435,7 @@ pdf>
 (epstopdf)                    size: 37222 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/U_RE1000-e
 ps-converted-to.pdf figure/cylinder/U_RE1000.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 383.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/U_RE1000-eps-converted-to.pdf, id=227, 894.34125pt x 739.76375
@@ -1443,7 +1443,7 @@ pt>
 File: figure/cylinder/U_RE1000-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/U_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/U_RE1000-eps-converted-to.pdf used on 
-input line 382.
+input line 383.
 (pdftex.def)             Requested size: 171.98723pt x 142.26378pt.
 Package epstopdf Info: Source file: <figure/cylinder/U_convergence_RE100.eps>
 (epstopdf)                    date: 2015-11-01 23:55:26
@@ -1454,7 +1454,7 @@ nverted-to.pdf>
 (epstopdf)                    size: 26364 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/U_converge
 nce_RE100-eps-converted-to.pdf figure/cylinder/U_convergence_RE100.eps>
-(epstopdf)             \includegraphics on input line 387.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/U_convergence_RE100-eps-converted-to.pdf, id=228, 1311.90125pt
@@ -1463,7 +1463,7 @@ File: figure/cylinder/U_convergence_RE100-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use figure/cylinder/U_convergence_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/U_convergence_RE100-eps-converted-to.p
-df used on input line 387.
+df used on input line 388.
 (pdftex.def)             Requested size: 197.53738pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/U_convergence_RE1000.eps>
 (epstopdf)                    date: 2015-11-01 23:55:50
@@ -1474,7 +1474,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 25763 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/U_converge
 nce_RE1000-eps-converted-to.pdf figure/cylinder/U_convergence_RE1000.eps>
-(epstopdf)             \includegraphics on input line 392.
+(epstopdf)             \includegraphics on input line 393.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/U_convergence_RE1000-eps-converted-to.pdf, id=229, 1306.8825pt
@@ -1483,7 +1483,7 @@ File: figure/cylinder/U_convergence_RE1000-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use figure/cylinder/U_convergence_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/U_convergence_RE1000-eps-converted-to.
-pdf used on input line 392.
+pdf used on input line 393.
 (pdftex.def)             Requested size: 197.04092pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/V_convergence_RE100.eps>
 (epstopdf)                    date: 2015-11-01 23:56:48
@@ -1494,7 +1494,7 @@ nverted-to.pdf>
 (epstopdf)                    size: 27432 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/V_converge
 nce_RE100-eps-converted-to.pdf figure/cylinder/V_convergence_RE100.eps>
-(epstopdf)             \includegraphics on input line 397.
+(epstopdf)             \includegraphics on input line 398.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/V_convergence_RE100-eps-converted-to.pdf, id=230, 1300.86pt x 
@@ -1503,7 +1503,7 @@ File: figure/cylinder/V_convergence_RE100-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use figure/cylinder/V_convergence_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/V_convergence_RE100-eps-converted-to.p
-df used on input line 397.
+df used on input line 398.
 (pdftex.def)             Requested size: 197.44298pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/V_convergence_RE1000.eps>
 (epstopdf)                    date: 2015-11-01 23:57:20
@@ -1514,7 +1514,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 28105 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/V_converge
 nce_RE1000-eps-converted-to.pdf figure/cylinder/V_convergence_RE1000.eps>
-(epstopdf)             \includegraphics on input line 402.
+(epstopdf)             \includegraphics on input line 403.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/V_convergence_RE1000-eps-converted-to.pdf, id=231, 1301.86375p
@@ -1524,14 +1524,14 @@ ype pdf)
 
 <use figure/cylinder/V_convergence_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/V_convergence_RE1000-eps-converted-to.
-pdf used on input line 402.
+pdf used on input line 403.
 (pdftex.def)             Requested size: 196.026pt x 113.81102pt.
  [10pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.407 
+l.408 
        <./figure/cylinder/domain.png>]
 Overfull \vbox (2.06432pt too high) has occurred while \output is active []
 
@@ -1541,7 +1541,7 @@ Overfull \vbox (2.06432pt too high) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.407 
+l.408 
        <./figure/cylinder/P_RE100-eps-converted-to.pdf> <./figure/cylinder/P_RE
 1000-eps-converted-to.pdf> <./figure/cylinder/U_RE100-eps-converted-to.pdf> <./
 figure/cylinder/U_RE1000-eps-converted-to.pdf> <./figure/cylinder/U_convergence
@@ -1556,7 +1556,7 @@ Package epstopdf Info: Source file: <figure/cylinder/fx.eps>
 (epstopdf)                    size: 29662 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/fx-eps-con
 verted-to.pdf figure/cylinder/fx.eps>
-(epstopdf)             \includegraphics on input line 416.
+(epstopdf)             \includegraphics on input line 417.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/fx-eps-converted-to.pdf, id=275, 1334.9875pt x 767.86874pt>
@@ -1564,8 +1564,8 @@ File: figure/cylinder/fx-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/fx-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/fx-eps-converted-to.pdf used on input 
-line 416.
-(pdftex.def)             Requested size: 222.58565pt x 128.0374pt.
+line 417.
+(pdftex.def)             Requested size: 205.27094pt x 118.07875pt.
 Package epstopdf Info: Source file: <figure/cylinder/fy.eps>
 (epstopdf)                    date: 2015-11-02 23:44:44
 (epstopdf)                    size: 274357 bytes
@@ -1574,7 +1574,7 @@ Package epstopdf Info: Source file: <figure/cylinder/fy.eps>
 (epstopdf)                    size: 30782 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/fy-eps-con
 verted-to.pdf figure/cylinder/fy.eps>
-(epstopdf)             \includegraphics on input line 421.
+(epstopdf)             \includegraphics on input line 422.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/fy-eps-converted-to.pdf, id=276, 1332.98pt x 759.83875pt>
@@ -1582,8 +1582,8 @@ File: figure/cylinder/fy-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/fy-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/fy-eps-converted-to.pdf used on input 
-line 421.
-(pdftex.def)             Requested size: 224.61032pt x 128.0374pt.
+line 422.
+(pdftex.def)             Requested size: 207.1386pt x 118.07875pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:24:10
 (epstopdf)                    size: 170217 bytes
@@ -1593,7 +1593,7 @@ pdf>
 (epstopdf)                    size: 117710 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp_RE100-e
 ps-converted-to.pdf figure/cylinder/Pp_RE100.eps>
-(epstopdf)             \includegraphics on input line 435.
+(epstopdf)             \includegraphics on input line 436.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Pp_RE100-eps-converted-to.pdf, id=279, 932.48375pt x 743.77875
@@ -1601,7 +1601,7 @@ pt>
 File: figure/cylinder/Pp_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Pp_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp_RE100-eps-converted-to.pdf used on 
-input line 435.
+input line 436.
 (pdftex.def)             Requested size: 214.02567pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:24:10
@@ -1612,13 +1612,13 @@ pdf>
 (epstopdf)                    size: 117710 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp_RE100-e
 ps-converted-to.pdf figure/cylinder/Pp_RE100.eps>
-(epstopdf)             \includegraphics on input line 440.
+(epstopdf)             \includegraphics on input line 441.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Pp_RE100-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Pp_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp_RE100-eps-converted-to.pdf used on 
-input line 440.
+input line 441.
 (pdftex.def)             Requested size: 214.02567pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:24:36
@@ -1629,7 +1629,7 @@ pdf>
 (epstopdf)                    size: 139368 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up_RE100-e
 ps-converted-to.pdf figure/cylinder/Up_RE100.eps>
-(epstopdf)             \includegraphics on input line 445.
+(epstopdf)             \includegraphics on input line 446.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Up_RE100-eps-converted-to.pdf, id=280, 907.39pt x 742.775pt>
@@ -1637,7 +1637,7 @@ File: figure/cylinder/Up_RE100-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Up_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up_RE100-eps-converted-to.pdf used on 
-input line 445.
+input line 446.
 (pdftex.def)             Requested size: 208.543pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:24:36
@@ -1648,13 +1648,13 @@ pdf>
 (epstopdf)                    size: 139368 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up_RE100-e
 ps-converted-to.pdf figure/cylinder/Up_RE100.eps>
-(epstopdf)             \includegraphics on input line 450.
+(epstopdf)             \includegraphics on input line 451.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Up_RE100-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Up_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up_RE100-eps-converted-to.pdf used on 
-input line 450.
+input line 451.
 (pdftex.def)             Requested size: 208.543pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Vp_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:25:00
@@ -1665,7 +1665,7 @@ pdf>
 (epstopdf)                    size: 112162 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Vp_RE100-e
 ps-converted-to.pdf figure/cylinder/Vp_RE100.eps>
-(epstopdf)             \includegraphics on input line 455.
+(epstopdf)             \includegraphics on input line 456.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Vp_RE100-eps-converted-to.pdf, id=281, 905.3825pt x 741.77126p
@@ -1673,7 +1673,7 @@ t>
 File: figure/cylinder/Vp_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Vp_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Vp_RE100-eps-converted-to.pdf used on 
-input line 455.
+input line 456.
 (pdftex.def)             Requested size: 208.37173pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Vp_RE100.eps>
 (epstopdf)                    date: 2015-11-03 01:25:00
@@ -1684,20 +1684,20 @@ pdf>
 (epstopdf)                    size: 112162 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Vp_RE100-e
 ps-converted-to.pdf figure/cylinder/Vp_RE100.eps>
-(epstopdf)             \includegraphics on input line 460.
+(epstopdf)             \includegraphics on input line 461.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Vp_RE100-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Vp_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Vp_RE100-eps-converted-to.pdf used on 
-input line 460.
+input line 461.
 (pdftex.def)             Requested size: 208.37173pt x 170.71652pt.
  [12pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.465 
+l.466 
        <./figure/cylinder/fx-eps-converted-to.pdf> <./figure/cylinder/fy-eps-co
 nverted-to.pdf>]
 Package epstopdf Info: Source file: <figure/cylinder/Pp_RE1000.eps>
@@ -1709,7 +1709,7 @@ Package epstopdf Info: Source file: <figure/cylinder/Pp_RE1000.eps>
 (epstopdf)                    size: 25274 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp_RE1000-
 eps-converted-to.pdf figure/cylinder/Pp_RE1000.eps>
-(epstopdf)             \includegraphics on input line 472.
+(epstopdf)             \includegraphics on input line 473.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Pp_RE1000-eps-converted-to.pdf, id=297, 953.5625pt x 739.76375
@@ -1717,7 +1717,7 @@ pt>
 File: figure/cylinder/Pp_RE1000-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Pp_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp_RE1000-eps-converted-to.pdf used on
- input line 472.
+ input line 473.
 (pdftex.def)             Requested size: 220.05682pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp_RE1000.eps>
 (epstopdf)                    date: 2015-11-03 12:01:24
@@ -1728,13 +1728,13 @@ Package epstopdf Info: Source file: <figure/cylinder/Pp_RE1000.eps>
 (epstopdf)                    size: 25274 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp_RE1000-
 eps-converted-to.pdf figure/cylinder/Pp_RE1000.eps>
-(epstopdf)             \includegraphics on input line 477.
+(epstopdf)             \includegraphics on input line 478.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Pp_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Pp_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp_RE1000-eps-converted-to.pdf used on
- input line 477.
+ input line 478.
 (pdftex.def)             Requested size: 220.05682pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up_RE1000.eps>
 (epstopdf)                    date: 2015-11-03 12:01:48
@@ -1745,7 +1745,7 @@ Package epstopdf Info: Source file: <figure/cylinder/Up_RE1000.eps>
 (epstopdf)                    size: 33728 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up_RE1000-
 eps-converted-to.pdf figure/cylinder/Up_RE1000.eps>
-(epstopdf)             \includegraphics on input line 482.
+(epstopdf)             \includegraphics on input line 483.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Up_RE1000-eps-converted-to.pdf, id=298, 928.46875pt x 741.7712
@@ -1753,7 +1753,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Up_RE1000-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Up_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up_RE1000-eps-converted-to.pdf used on
- input line 482.
+ input line 483.
 (pdftex.def)             Requested size: 213.685pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up_RE1000.eps>
 (epstopdf)                    date: 2015-11-03 12:01:48
@@ -1764,13 +1764,13 @@ Package epstopdf Info: Source file: <figure/cylinder/Up_RE1000.eps>
 (epstopdf)                    size: 33728 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up_RE1000-
 eps-converted-to.pdf figure/cylinder/Up_RE1000.eps>
-(epstopdf)             \includegraphics on input line 487.
+(epstopdf)             \includegraphics on input line 488.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Up_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Up_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up_RE1000-eps-converted-to.pdf used on
- input line 487.
+ input line 488.
 (pdftex.def)             Requested size: 213.685pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Vp_RE1000.eps>
 (epstopdf)                    date: 2015-11-03 12:02:12
@@ -1781,7 +1781,7 @@ Package epstopdf Info: Source file: <figure/cylinder/Vp_RE1000.eps>
 (epstopdf)                    size: 108847 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Vp_RE1000-
 eps-converted-to.pdf figure/cylinder/Vp_RE1000.eps>
-(epstopdf)             \includegraphics on input line 492.
+(epstopdf)             \includegraphics on input line 493.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/cylinder/Vp_RE1000-eps-converted-to.pdf, id=299, 928.46875pt x 743.7787
@@ -1789,7 +1789,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Vp_RE1000-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Vp_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Vp_RE1000-eps-converted-to.pdf used on
- input line 492.
+ input line 493.
 (pdftex.def)             Requested size: 213.10413pt x 170.71652pt.
 Package epstopdf Info: Source file: <figure/cylinder/Vp_RE1000.eps>
 (epstopdf)                    date: 2015-11-03 12:02:12
@@ -1800,20 +1800,20 @@ Package epstopdf Info: Source file: <figure/cylinder/Vp_RE1000.eps>
 (epstopdf)                    size: 108847 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Vp_RE1000-
 eps-converted-to.pdf figure/cylinder/Vp_RE1000.eps>
-(epstopdf)             \includegraphics on input line 497.
+(epstopdf)             \includegraphics on input line 498.
 Package epstopdf Info: Output file is already uptodate.
 File: figure/cylinder/Vp_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figure/cylinder/Vp_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Vp_RE1000-eps-converted-to.pdf used on
- input line 497.
+ input line 498.
 (pdftex.def)             Requested size: 213.10413pt x 170.71652pt.
  [13pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.502 
+l.503 
        <./figure/cylinder/Pp_RE100-eps-converted-to.pdf> <./figure/cylinder/Up_
 RE100-eps-converted-to.pdf> <./figure/cylinder/Vp_RE100-eps-converted-to.pdf>]
 <figure/cylinder/sampling_location.png, id=322, 1031.35312pt x 578.91281pt>
@@ -1821,303 +1821,303 @@ File: figure/cylinder/sampling_location.png Graphic file (type png)
 
 <use figure/cylinder/sampling_location.png>
 Package pdftex.def Info: figure/cylinder/sampling_location.png used on input li
-ne 508.
-(pdftex.def)             Requested size: 253.44698pt x 142.26378pt.
+ne 509.
+(pdftex.def)             Requested size: 304.13637pt x 170.71652pt.
  [14pdfTeX warning (ext4): destination with the same identifier (name{figure.10
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.513 
+l.514 
        <./figure/cylinder/Pp_RE1000-eps-converted-to.pdf> <./figure/cylinder/Up
 _RE1000-eps-converted-to.pdf> <./figure/cylinder/Vp_RE1000-eps-converted-to.pdf
 >]
 Package epstopdf Info: Source file: <figure/cylinder/Pp025_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:29:34
-(epstopdf)                    size: 10946 bytes
+(epstopdf)                    date: 2015-11-16 15:04:50
+(epstopdf)                    size: 13163 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp025_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 11386 bytes
+(epstopdf)                    date: 2015-11-16 15:05:22
+(epstopdf)                    size: 13457 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp025_RE10
 0-eps-converted-to.pdf figure/cylinder/Pp025_RE100.eps>
-(epstopdf)             \includegraphics on input line 522.
+(epstopdf)             \includegraphics on input line 523.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp025_RE100-eps-converted-to.pdf, id=345, 1489.565pt x 803.0pt
->
+<figure/cylinder/Pp025_RE100-eps-converted-to.pdf, id=345, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Pp025_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Pp025_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp025_RE100-eps-converted-to.pdf used 
-on input line 522.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 523.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp025_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:26:34
-(epstopdf)                    size: 10950 bytes
+(epstopdf)                    date: 2015-11-16 15:24:54
+(epstopdf)                    size: 12942 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp025_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 11533 bytes
+(epstopdf)                    date: 2015-11-16 15:25:09
+(epstopdf)                    size: 12943 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp025_RE10
 00-eps-converted-to.pdf figure/cylinder/Pp025_RE1000.eps>
-(epstopdf)             \includegraphics on input line 527.
+(epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp025_RE1000-eps-converted-to.pdf, id=346, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Pp025_RE1000-eps-converted-to.pdf, id=346, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Pp025_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Pp025_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp025_RE1000-eps-converted-to.pdf used
- on input line 527.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 528.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp050_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:29:44
-(epstopdf)                    size: 15527 bytes
+(epstopdf)                    date: 2015-11-16 15:04:37
+(epstopdf)                    size: 12620 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp050_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 22846 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 12055 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp050_RE10
 0-eps-converted-to.pdf figure/cylinder/Pp050_RE100.eps>
-(epstopdf)             \includegraphics on input line 532.
+(epstopdf)             \includegraphics on input line 533.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp050_RE100-eps-converted-to.pdf, id=347, 1489.565pt x 803.0pt
->
+<figure/cylinder/Pp050_RE100-eps-converted-to.pdf, id=347, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Pp050_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Pp050_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp050_RE100-eps-converted-to.pdf used 
-on input line 532.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 533.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp050_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:26:44
-(epstopdf)                    size: 15891 bytes
+(epstopdf)                    date: 2015-11-16 15:24:47
+(epstopdf)                    size: 12625 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp050_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 23836 bytes
+(epstopdf)                    date: 2015-11-16 15:25:09
+(epstopdf)                    size: 12237 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp050_RE10
 00-eps-converted-to.pdf figure/cylinder/Pp050_RE1000.eps>
-(epstopdf)             \includegraphics on input line 537.
+(epstopdf)             \includegraphics on input line 538.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp050_RE1000-eps-converted-to.pdf, id=348, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Pp050_RE1000-eps-converted-to.pdf, id=348, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Pp050_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Pp050_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp050_RE1000-eps-converted-to.pdf used
- on input line 537.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 538.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp075_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:29:54
-(epstopdf)                    size: 10946 bytes
+(epstopdf)                    date: 2015-11-16 15:04:29
+(epstopdf)                    size: 12979 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp075_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 11386 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 12911 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp075_RE10
 0-eps-converted-to.pdf figure/cylinder/Pp075_RE100.eps>
-(epstopdf)             \includegraphics on input line 542.
+(epstopdf)             \includegraphics on input line 543.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp075_RE100-eps-converted-to.pdf, id=349, 1489.565pt x 803.0pt
->
+<figure/cylinder/Pp075_RE100-eps-converted-to.pdf, id=349, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Pp075_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Pp075_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp075_RE100-eps-converted-to.pdf used 
-on input line 542.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 543.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Pp075_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:26:52
-(epstopdf)                    size: 10950 bytes
+(epstopdf)                    date: 2015-11-16 15:24:40
+(epstopdf)                    size: 12942 bytes
 (epstopdf)             Output file: <figure/cylinder/Pp075_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:32:56
-(epstopdf)                    size: 11533 bytes
+(epstopdf)                    date: 2015-11-16 15:25:09
+(epstopdf)                    size: 12943 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Pp075_RE10
 00-eps-converted-to.pdf figure/cylinder/Pp075_RE1000.eps>
-(epstopdf)             \includegraphics on input line 547.
+(epstopdf)             \includegraphics on input line 548.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Pp075_RE1000-eps-converted-to.pdf, id=350, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Pp075_RE1000-eps-converted-to.pdf, id=350, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Pp075_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Pp075_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Pp075_RE1000-eps-converted-to.pdf used
- on input line 547.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 548.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
  [15pdfTeX warning (ext4): destination with the same identifier (name{figure.11
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.552 
+l.553 
        <./figure/cylinder/sampling_location.png>]
 Package epstopdf Info: Source file: <figure/cylinder/Up025_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:30:06
-(epstopdf)                    size: 13578 bytes
+(epstopdf)                    date: 2015-11-16 15:04:06
+(epstopdf)                    size: 11493 bytes
 (epstopdf)             Output file: <figure/cylinder/Up025_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 17041 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 11124 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up025_RE10
 0-eps-converted-to.pdf figure/cylinder/Up025_RE100.eps>
-(epstopdf)             \includegraphics on input line 559.
+(epstopdf)             \includegraphics on input line 560.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up025_RE100-eps-converted-to.pdf, id=358, 1489.565pt x 803.0pt
->
+<figure/cylinder/Up025_RE100-eps-converted-to.pdf, id=358, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Up025_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Up025_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up025_RE100-eps-converted-to.pdf used 
-on input line 559.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 560.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up025_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:22:02
-(epstopdf)                    size: 13517 bytes
+(epstopdf)                    date: 2015-11-16 15:24:30
+(epstopdf)                    size: 11338 bytes
 (epstopdf)             Output file: <figure/cylinder/Up025_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 17060 bytes
+(epstopdf)                    date: 2015-11-16 15:25:10
+(epstopdf)                    size: 10799 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up025_RE10
 00-eps-converted-to.pdf figure/cylinder/Up025_RE1000.eps>
-(epstopdf)             \includegraphics on input line 564.
+(epstopdf)             \includegraphics on input line 565.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up025_RE1000-eps-converted-to.pdf, id=359, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Up025_RE1000-eps-converted-to.pdf, id=359, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Up025_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Up025_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up025_RE1000-eps-converted-to.pdf used
- on input line 564.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 565.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up050_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:30:16
-(epstopdf)                    size: 12657 bytes
+(epstopdf)                    date: 2015-11-16 15:03:56
+(epstopdf)                    size: 10988 bytes
 (epstopdf)             Output file: <figure/cylinder/Up050_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 14905 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 10176 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up050_RE10
 0-eps-converted-to.pdf figure/cylinder/Up050_RE100.eps>
-(epstopdf)             \includegraphics on input line 569.
+(epstopdf)             \includegraphics on input line 570.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up050_RE100-eps-converted-to.pdf, id=360, 1489.565pt x 803.0pt
->
+<figure/cylinder/Up050_RE100-eps-converted-to.pdf, id=360, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Up050_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Up050_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up050_RE100-eps-converted-to.pdf used 
-on input line 569.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 570.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up050_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:22:12
-(epstopdf)                    size: 12563 bytes
+(epstopdf)                    date: 2015-11-16 15:24:23
+(epstopdf)                    size: 11106 bytes
 (epstopdf)             Output file: <figure/cylinder/Up050_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 14746 bytes
+(epstopdf)                    date: 2015-11-16 15:25:10
+(epstopdf)                    size: 10557 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up050_RE10
 00-eps-converted-to.pdf figure/cylinder/Up050_RE1000.eps>
-(epstopdf)             \includegraphics on input line 574.
+(epstopdf)             \includegraphics on input line 575.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up050_RE1000-eps-converted-to.pdf, id=361, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Up050_RE1000-eps-converted-to.pdf, id=361, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Up050_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Up050_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up050_RE1000-eps-converted-to.pdf used
- on input line 574.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 575.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up075_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:30:28
-(epstopdf)                    size: 13740 bytes
+(epstopdf)                    date: 2015-11-16 15:03:48
+(epstopdf)                    size: 11795 bytes
 (epstopdf)             Output file: <figure/cylinder/Up075_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 16904 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 11360 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up075_RE10
 0-eps-converted-to.pdf figure/cylinder/Up075_RE100.eps>
-(epstopdf)             \includegraphics on input line 579.
+(epstopdf)             \includegraphics on input line 580.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up075_RE100-eps-converted-to.pdf, id=362, 1489.565pt x 803.0pt
->
+<figure/cylinder/Up075_RE100-eps-converted-to.pdf, id=362, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Up075_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Up075_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up075_RE100-eps-converted-to.pdf used 
-on input line 579.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 580.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up075_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:22:20
-(epstopdf)                    size: 13641 bytes
+(epstopdf)                    date: 2015-11-16 15:24:15
+(epstopdf)                    size: 11838 bytes
 (epstopdf)             Output file: <figure/cylinder/Up075_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 17036 bytes
+(epstopdf)                    date: 2015-11-16 15:25:10
+(epstopdf)                    size: 11840 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up075_RE10
 00-eps-converted-to.pdf figure/cylinder/Up075_RE1000.eps>
-(epstopdf)             \includegraphics on input line 584.
+(epstopdf)             \includegraphics on input line 585.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up075_RE1000-eps-converted-to.pdf, id=363, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Up075_RE1000-eps-converted-to.pdf, id=363, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Up075_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Up075_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up075_RE1000-eps-converted-to.pdf used
- on input line 584.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 585.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up100_RE100.eps>
-(epstopdf)                    date: 2015-11-03 18:30:38
-(epstopdf)                    size: 11918 bytes
+(epstopdf)                    date: 2015-11-16 15:03:36
+(epstopdf)                    size: 11554 bytes
 (epstopdf)             Output file: <figure/cylinder/Up100_RE100-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 11930 bytes
+(epstopdf)                    date: 2015-11-16 15:05:23
+(epstopdf)                    size: 10906 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up100_RE10
 0-eps-converted-to.pdf figure/cylinder/Up100_RE100.eps>
-(epstopdf)             \includegraphics on input line 589.
+(epstopdf)             \includegraphics on input line 590.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up100_RE100-eps-converted-to.pdf, id=364, 1489.565pt x 803.0pt
->
+<figure/cylinder/Up100_RE100-eps-converted-to.pdf, id=364, 1540.75626pt x 803.0
+pt>
 File: figure/cylinder/Up100_RE100-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/cylinder/Up100_RE100-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up100_RE100-eps-converted-to.pdf used 
-on input line 589.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+on input line 590.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/cylinder/Up100_RE1000.eps>
-(epstopdf)                    date: 2015-11-03 18:22:30
-(epstopdf)                    size: 11789 bytes
+(epstopdf)                    date: 2015-11-16 15:24:04
+(epstopdf)                    size: 11706 bytes
 (epstopdf)             Output file: <figure/cylinder/Up100_RE1000-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-11-03 18:36:26
-(epstopdf)                    size: 12010 bytes
+(epstopdf)                    date: 2015-11-16 15:25:10
+(epstopdf)                    size: 11669 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/cylinder/Up100_RE10
 00-eps-converted-to.pdf figure/cylinder/Up100_RE1000.eps>
-(epstopdf)             \includegraphics on input line 594.
+(epstopdf)             \includegraphics on input line 595.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/cylinder/Up100_RE1000-eps-converted-to.pdf, id=365, 1489.565pt x 803.0p
-t>
+<figure/cylinder/Up100_RE1000-eps-converted-to.pdf, id=365, 1540.75626pt x 803.
+0pt>
 File: figure/cylinder/Up100_RE1000-eps-converted-to.pdf Graphic file (type pdf)
 
  <use figure/cylinder/Up100_RE1000-eps-converted-to.pdf>
 Package pdftex.def Info: figure/cylinder/Up100_RE1000-eps-converted-to.pdf used
- on input line 594.
-(pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
+ on input line 595.
+(pdftex.def)             Requested size: 218.36104pt x 113.81102pt.
  [16pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.599 
+l.600 
        <./figure/cylinder/Pp025_RE100-eps-converted-to.pdf> <./figure/cylinder/
 Pp025_RE1000-eps-converted-to.pdf> <./figure/cylinder/Pp050_RE100-eps-converted
 -to.pdf> <./figure/cylinder/Pp050_RE1000-eps-converted-to.pdf> <./figure/cylind
@@ -2127,7 +2127,7 @@ me{figure.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.603 
+l.604 
        <./figure/cylinder/Up025_RE100-eps-converted-to.pdf> <./figure/cylinder/
 Up025_RE1000-eps-converted-to.pdf> <./figure/cylinder/Up050_RE100-eps-converted
 -to.pdf> <./figure/cylinder/Up050_RE1000-eps-converted-to.pdf> <./figure/cylind
@@ -2139,7 +2139,7 @@ File: figure/airfoil/airfoil_physical_domain.png Graphic file (type png)
 
 <use figure/airfoil/airfoil_physical_domain.png>
 Package pdftex.def Info: figure/airfoil/airfoil_physical_domain.png used on inp
-ut line 610.
+ut line 611.
 (pdftex.def)             Requested size: 284.52756pt x 69.27066pt.
 
 <figure/airfoil/airfoil_computational_domain.png, id=476, 616.55344pt x 361.35p
@@ -2147,10 +2147,10 @@ t>
 File: figure/airfoil/airfoil_computational_domain.png Graphic file (type png)
  <use figure/airfoil/airfoil_computational_domain.png>
 Package pdftex.def Info: figure/airfoil/airfoil_computational_domain.png used o
-n input line 615.
+n input line 616.
 (pdftex.def)             Requested size: 284.52756pt x 166.75784pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 629--630
+Underfull \hbox (badness 10000) in paragraph at lines 630--631
 
  []
 
@@ -2163,7 +2163,7 @@ d-to.pdf>
 (epstopdf)                    size: 15481 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/airfoil1_sh
 ape-eps-converted-to.pdf figure/airfoil/airfoil1_shape.eps>
-(epstopdf)             \includegraphics on input line 638.
+(epstopdf)             \includegraphics on input line 639.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/airfoil1_shape-eps-converted-to.pdf, id=479, 930.47626pt x 753.
@@ -2172,7 +2172,7 @@ File: figure/airfoil/airfoil1_shape-eps-converted-to.pdf Graphic file (type pdf
 )
  <use figure/airfoil/airfoil1_shape-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/airfoil1_shape-eps-converted-to.pdf use
-d on input line 638.
+d on input line 639.
 (pdftex.def)             Requested size: 140.47408pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/airfoil/airfoil2_shape.eps>
 (epstopdf)                    date: 2015-11-05 16:56:56
@@ -2183,7 +2183,7 @@ d-to.pdf>
 (epstopdf)                    size: 16088 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/airfoil2_sh
 ape-eps-converted-to.pdf figure/airfoil/airfoil2_shape.eps>
-(epstopdf)             \includegraphics on input line 644.
+(epstopdf)             \includegraphics on input line 645.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/airfoil2_shape-eps-converted-to.pdf, id=480, 934.49126pt x 752.
@@ -2192,42 +2192,42 @@ File: figure/airfoil/airfoil2_shape-eps-converted-to.pdf Graphic file (type pdf
 )
  <use figure/airfoil/airfoil2_shape-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/airfoil2_shape-eps-converted-to.pdf use
-d on input line 644.
+d on input line 645.
 (pdftex.def)             Requested size: 141.2656pt x 113.81102pt.
  [18pdfTeX warning (ext4): destination with the same identifier (name{figure.14
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.649 
+l.650 
        <./figure/airfoil/airfoil_physical_domain.png> <./figure/airfoil/airfoil
 _computational_domain.png>]
 <figure/airfoil/airfoil1_P.png, id=494, 274.626pt x 147.9126pt>
 File: figure/airfoil/airfoil1_P.png Graphic file (type png)
 
 <use figure/airfoil/airfoil1_P.png>
-Package pdftex.def Info: figure/airfoil/airfoil1_P.png used on input line 658.
+Package pdftex.def Info: figure/airfoil/airfoil1_P.png used on input line 659.
 (pdftex.def)             Requested size: 211.316pt x 113.81102pt.
 
 <figure/airfoil/airfoil2_P.png, id=495, 274.626pt x 146.4672pt>
 File: figure/airfoil/airfoil2_P.png Graphic file (type png)
 
 <use figure/airfoil/airfoil2_P.png>
-Package pdftex.def Info: figure/airfoil/airfoil2_P.png used on input line 663.
+Package pdftex.def Info: figure/airfoil/airfoil2_P.png used on input line 664.
 (pdftex.def)             Requested size: 213.40285pt x 113.81102pt.
 
 <figure/airfoil/airfoil1_U.png, id=496, 274.626pt x 150.3216pt>
 File: figure/airfoil/airfoil1_U.png Graphic file (type png)
 
 <use figure/airfoil/airfoil1_U.png>
-Package pdftex.def Info: figure/airfoil/airfoil1_U.png used on input line 669.
+Package pdftex.def Info: figure/airfoil/airfoil1_U.png used on input line 670.
 (pdftex.def)             Requested size: 207.92174pt x 113.81102pt.
 
 <figure/airfoil/airfoil2_U.png, id=497, 274.626pt x 150.8034pt>
 File: figure/airfoil/airfoil2_U.png Graphic file (type png)
 
 <use figure/airfoil/airfoil2_U.png>
-Package pdftex.def Info: figure/airfoil/airfoil2_U.png used on input line 674.
+Package pdftex.def Info: figure/airfoil/airfoil2_U.png used on input line 675.
 (pdftex.def)             Requested size: 207.26802pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/airfoil/uVelocity_boundary_airfoil1
 .eps>
@@ -2240,7 +2240,7 @@ Package epstopdf Info: Source file: <figure/airfoil/uVelocity_boundary_airfoil1
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/uVelocity_b
 oundary_airfoil1-eps-converted-to.pdf figure/airfoil/uVelocity_boundary_airfoil
 1.eps>
-(epstopdf)             \includegraphics on input line 688.
+(epstopdf)             \includegraphics on input line 689.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/uVelocity_boundary_airfoil1-eps-converted-to.pdf, id=499, 1489.
@@ -2250,7 +2250,7 @@ ile (type pdf)
 
 <use figure/airfoil/uVelocity_boundary_airfoil1-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/uVelocity_boundary_airfoil1-eps-convert
-ed-to.pdf used on input line 688.
+ed-to.pdf used on input line 689.
 (pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/airfoil/uVelocity_boundary_airfoil2
 .eps>
@@ -2263,7 +2263,7 @@ Package epstopdf Info: Source file: <figure/airfoil/uVelocity_boundary_airfoil2
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/uVelocity_b
 oundary_airfoil2-eps-converted-to.pdf figure/airfoil/uVelocity_boundary_airfoil
 2.eps>
-(epstopdf)             \includegraphics on input line 693.
+(epstopdf)             \includegraphics on input line 694.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/uVelocity_boundary_airfoil2-eps-converted-to.pdf, id=500, 1489.
@@ -2273,7 +2273,7 @@ ile (type pdf)
 
 <use figure/airfoil/uVelocity_boundary_airfoil2-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/uVelocity_boundary_airfoil2-eps-convert
-ed-to.pdf used on input line 693.
+ed-to.pdf used on input line 694.
 (pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/airfoil/vVelocity_boundary_airfoil1
 .eps>
@@ -2286,7 +2286,7 @@ Package epstopdf Info: Source file: <figure/airfoil/vVelocity_boundary_airfoil1
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/vVelocity_b
 oundary_airfoil1-eps-converted-to.pdf figure/airfoil/vVelocity_boundary_airfoil
 1.eps>
-(epstopdf)             \includegraphics on input line 698.
+(epstopdf)             \includegraphics on input line 699.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/vVelocity_boundary_airfoil1-eps-converted-to.pdf, id=501, 1489.
@@ -2296,7 +2296,7 @@ ile (type pdf)
 
 <use figure/airfoil/vVelocity_boundary_airfoil1-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/vVelocity_boundary_airfoil1-eps-convert
-ed-to.pdf used on input line 698.
+ed-to.pdf used on input line 699.
 (pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
 Package epstopdf Info: Source file: <figure/airfoil/vVelocity_boundary_airfoil2
 .eps>
@@ -2309,7 +2309,7 @@ Package epstopdf Info: Source file: <figure/airfoil/vVelocity_boundary_airfoil2
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/vVelocity_b
 oundary_airfoil2-eps-converted-to.pdf figure/airfoil/vVelocity_boundary_airfoil
 2.eps>
-(epstopdf)             \includegraphics on input line 703.
+(epstopdf)             \includegraphics on input line 704.
 Package epstopdf Info: Output file is already uptodate.
 
 <figure/airfoil/vVelocity_boundary_airfoil2-eps-converted-to.pdf, id=502, 1489.
@@ -2319,106 +2319,105 @@ ile (type pdf)
 
 <use figure/airfoil/vVelocity_boundary_airfoil2-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/vVelocity_boundary_airfoil2-eps-convert
-ed-to.pdf used on input line 703.
+ed-to.pdf used on input line 704.
 (pdftex.def)             Requested size: 211.10605pt x 113.81102pt.
  [19pdfTeX warning (ext4): destination with the same identifier (name{figure.15
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.708 
+l.709 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.708 
+l.709 
        <./figure/airfoil/airfoil1_shape-eps-converted-to.pdf> <./figure/airfoil
 /airfoil2_shape-eps-converted-to.pdf> <./figure/airfoil/airfoil1_P.png> <./figu
 re/airfoil/airfoil2_P.png> <./figure/airfoil/airfoil1_U.png> <./figure/airfoil/
 airfoil2_U.png>]
 Package epstopdf Info: Source file: <figure/airfoil/airfoil1.eps>
-(epstopdf)                    date: 2015-11-03 19:23:32
-(epstopdf)                    size: 12120 bytes
+(epstopdf)                    date: 2015-11-16 15:49:45
+(epstopdf)                    size: 244364 bytes
 (epstopdf)             Output file: <figure/airfoil/airfoil1-eps-converted-to.p
 df>
-(epstopdf)                    date: 2015-11-03 19:24:52
-(epstopdf)                    size: 14278 bytes
+(epstopdf)                    date: 2015-11-16 15:50:22
+(epstopdf)                    size: 38185 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/airfoil1-ep
 s-converted-to.pdf figure/airfoil/airfoil1.eps>
-(epstopdf)             \includegraphics on input line 719.
+(epstopdf)             \includegraphics on input line 720.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/airfoil/airfoil1-eps-converted-to.pdf, id=530, 1489.565pt x 781.92125pt
->
+<figure/airfoil/airfoil1-eps-converted-to.pdf, id=529, 1309.89375pt x 735.74875
+pt>
 File: figure/airfoil/airfoil1-eps-converted-to.pdf Graphic file (type pdf)
  <use figure/airfoil/airfoil1-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/airfoil1-eps-converted-to.pdf used on i
-nput line 719.
-(pdftex.def)             Requested size: 224.92522pt x 118.07875pt.
+nput line 720.
+(pdftex.def)             Requested size: 210.2069pt x 118.07875pt.
 Package epstopdf Info: Source file: <figure/airfoil/airfoil2.eps>
-(epstopdf)                    date: 2015-11-03 19:23:14
-(epstopdf)                    size: 11965 bytes
+(epstopdf)                    date: 2015-11-16 15:50:16
+(epstopdf)                    size: 236930 bytes
 (epstopdf)             Output file: <figure/airfoil/airfoil2-eps-converted-to.p
 df>
-(epstopdf)                    date: 2015-11-03 19:24:52
-(epstopdf)                    size: 13845 bytes
+(epstopdf)                    date: 2015-11-16 15:50:23
+(epstopdf)                    size: 35692 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure/airfoil/airfoil2-ep
 s-converted-to.pdf figure/airfoil/airfoil2.eps>
-(epstopdf)             \includegraphics on input line 724.
+(epstopdf)             \includegraphics on input line 725.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure/airfoil/airfoil2-eps-converted-to.pdf, id=531, 1489.565pt x 803.0pt>
+<figure/airfoil/airfoil2-eps-converted-to.pdf, id=530, 1310.8975pt x 756.8275pt
+>
 File: figure/airfoil/airfoil2-eps-converted-to.pdf Graphic file (type pdf)
-
-<use figure/airfoil/airfoil2-eps-converted-to.pdf>
+ <use figure/airfoil/airfoil2-eps-converted-to.pdf>
 Package pdftex.def Info: figure/airfoil/airfoil2-eps-converted-to.pdf used on i
-nput line 724.
-(pdftex.def)             Requested size: 219.0157pt x 118.07875pt.
+nput line 725.
+(pdftex.def)             Requested size: 204.50719pt x 118.07875pt.
  [20pdfTeX warning (ext4): destination with the same identifier (name{figure.17
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.729 
+l.732 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.732 
        <./figure/airfoil/uVelocity_boundary_airfoil1-eps-converted-to.pdf> <./f
 igure/airfoil/uVelocity_boundary_airfoil2-eps-converted-to.pdf> <./figure/airfo
 il/vVelocity_boundary_airfoil1-eps-converted-to.pdf> <./figure/airfoil/vVelocit
-y_boundary_airfoil2-eps-converted-to.pdf>] [21pdfTeX warning (ext4): destinatio
-n with the same identifier (name{figure.18}) has been already used, duplicate i
-gnored
+y_boundary_airfoil2-eps-converted-to.pdf> <./figure/airfoil/airfoil1-eps-conver
+ted-to.pdf> <./figure/airfoil/airfoil2-eps-converted-to.pdf>] (./Rev5.bbl
+[21pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.748 \section
-              *{Acknowledgements}pdfTeX warning (ext4): destination with the sa
-me identifier (name{table.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.748 \section
-              *{Acknowledgements} <./figure/airfoil/airfoil1-eps-converted-to.p
-df> <./figure/airfoil/airfoil2-eps-converted-to.pdf>] (./Rev5.bbl [22])
-
+l.9 \bibitem{cross2014local}
+                            ] [22]) 
 AED: lastpage setting LastPage
 [23]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 755.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 755.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 762.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 762.
  (./Rev5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 755.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 755.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 762.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 762.
 Package rerunfilecheck Info: File `Rev5.out' has not changed.
 (rerunfilecheck)             Checksum: 4FE7DF92888FB95E21B8D7DED9D96A6F;556.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 755.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 762.
  ) 
 Here is how much of TeX's memory you used:
  15701 strings out of 494985
  268976 string characters out of 6180356
- 436381 words of memory out of 5000000
+ 436362 words of memory out of 5000000
  18424 multiletter control sequences out of 15000+600000
  50963 words of font info for 80 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 45i,13n,45p,10437b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,45p,10437b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -2435,10 +2434,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on Rev5.pdf (23 pages, 3065515 bytes).
+Output written on Rev5.pdf (23 pages, 3064992 bytes).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
+ 676 PDF objects out of 1000 (max. 8388607)
+ 521 compressed objects within 6 object streams
  154 named destinations out of 1000 (max. 500000)
  353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

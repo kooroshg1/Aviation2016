@@ -10,6 +10,7 @@
 %\doublespacing
 \usepackage{subfigure} %For side-by-side figures
 \usepackage{epstopdf} %To read *.eps Files
+\usepackage{multirow}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -347,7 +348,7 @@ This means that we perturb the design variable by an imaginary value of $ih$ and
 
 % -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 \subsection{Flow Over a Cylinder}
-We modelled the flow around a cylinder and calculated the sensitivity of the flow to the cylinder radius. The domain is defined as a rectangle with length and height of 2 m and 1 m respectively, as shown in Figure \ref{fig:cylinderDomain}. The cylinder radius is selected as 0.1 m and located 1 m from the inlet. The inlet boundary condition is defined as constant velocity and the outlet is modelled as an outflow boundary condition. This means that the gradient of $u$ and $v$ velocities are zero at the outlet. The top and bottom walls are modelled as free-slip boundary conditions. The flow is modelled by choosing the Reynolds number as $100$ and $1000$. The boundary of the cylinder is modelled using 100 Lagrangian nodes. The flow results and mesh convergence study for different Reynolds numbers are shown in Figure \ref{fig:convegence_study}. For this analysis, the $\alpha$ and $\beta$ parameter of Equation \eqref{eq:forcingFunction} are selected as $-10^4$ and $-50$ respectively. As shown in Figure \ref{fig:convegence_study}, the forcing function satisfied the zero velocity condition on the cylinder surface.
+We modelled the flow around a cylinder and calculated the sensitivity of the flow to the cylinder radius. The domain is defined as a rectangle with length and height of 2 m and 1 m respectively, as shown in Figure \ref{fig:cylinderDomain}. The cylinder radius is selected as 0.1 m and located 1 m from the inlet. The inlet boundary condition is defined as constant velocity and the outlet is modelled as an outflow boundary condition. This means that the gradient of $u$ and $v$ velocities are zero at the outlet. The top and bottom walls are modelled as free-slip boundary conditions. The flow is modelled by choosing the Reynolds number as $100$ and $1000$. The boundary of the cylinder is modelled using 100 Lagrangian nodes. The mesh convergence study is done for domain with $5000$, $20000$, and $45000$ nodes and different values for Reynolds number. The flow results and mesh convergence study are shown in Figure \ref{fig:convegence_study}. We choose a domain with $20000$ nodes as our converged mesh. For this analysis, the $\alpha$ and $\beta$ parameter of Equation \eqref{eq:forcingFunction} are selected as $-10^4$ and $-50$ respectively. As shown in Figure \ref{fig:convegence_study}, the forcing function satisfied the zero velocity condition on the cylinder surface.
 
 %
 \begin{figure}[H]
@@ -412,12 +413,12 @@ The time history of force terms on the cylinder surface are shown in Figure \ref
 	\centering
 	\subfigure[Forcing term in $x$ direction.]
 	{
-	\includegraphics[height=4.5cm]{figure/cylinder/fx.eps}
+	\includegraphics[height=4.15cm]{figure/cylinder/fx.eps}
 	}
 	\quad
 	\subfigure[Forcing term in $y$ direction.]
 	{
-	\includegraphics[height=4.5cm]{figure/cylinder/fy.eps}
+	\includegraphics[height=4.15cm]{figure/cylinder/fy.eps}
 	}
 	\caption{Forcing terms on the cylinder surface. $\theta = 0$ is on the front and $\theta = 180$ is on the back of the cylinder for Re = 100.}
 	\label{fig:cylinderForceTerms}
@@ -505,7 +506,7 @@ For a better comparison between the sensitivity results of Continuum Sensitivity
 %
 \begin{figure}[H]
 	\centering
-	\includegraphics[height=5.0cm]{figure/cylinder/sampling_location.png}
+	\includegraphics[height=6.0cm]{figure/cylinder/sampling_location.png}
 	\caption{Sampling locations for the sensitivities}
 	\label{fig:cylinderSampleLocations}
 \end{figure}
@@ -599,7 +600,7 @@ We compared the sensitivity of u-velocity and pressure on sample locations for d
 
 % -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 \subsection{Linear Beam with an Airfoil}
-Laminar flow over a simplified wing is selected as the second demonstration problem. The physical model for this problem is shown in Figure \ref{fig:wingModel}. The one-way fluid-solid interaction is defined by mounting the airfoil on an elastic beam where the flow field is calculated using a CFD simulation. The load and moment from the aerodynamic analysis are applied on the structure through the mounting point. The beam length is $4$ $m$, with a cross-sectional area of $0.002$ $m^2$, and modulus of elasticity of $200$ GPa. The initial angle of attack is selected at $2$ degrees. The fluid is modeled as laminar and incompressible flow using Navier-Stokes equations. The Reynolds number for the flow is selected as 100 for this problem. The boundary conditions are defined as the inflow velocity and zero gradient of velocity at the outlet. The top and bottom walls are modelled as free-slip boundary conditions. The structure is modelled as a linear Euler-Bernoulli beam. We are interested in calculating the sensitivity of the tip displacement of the structure to the shape of the airfoil.
+Laminar flow over a simplified wing is selected as the second demonstration problem. The physical model for this problem is shown in Figure \ref{fig:wingModel}. The one-way fluid-solid interaction is defined by mounting the airfoil on an elastic beam where the flow field is calculated using a CFD simulation. The load and moment from the aerodynamic analysis are applied on the structure through the mounting point. The beam length is $4$ $m$, with a square cross-section with the area of $0.0001$ $m^2$, and modulus of elasticity of $80$ GPa. The initial angle of attack is selected at $2$ degrees. The fluid is modeled as laminar and incompressible flow using Navier-Stokes equations. The Reynolds number for the flow is selected as 100 for this problem. The boundary conditions are defined as the inflow velocity and zero gradient of velocity at the outlet. The top and bottom walls are modelled as free-slip boundary conditions. The structure is modelled as a linear Euler-Bernoulli beam. We are interested in calculating the sensitivity of the tip displacement of the structure to the shape of the airfoil.
 
 %
 \begin{figure}[H]
@@ -708,7 +709,7 @@ As shown in Figure \ref{fig:airfoilSurfaceVelocity} the feedback forcing functio
 
 The governing equations, along with the boundary conditions, are differentiated to derive the CSEs as described in the previous section. The resulting system of equations is solved to get the sensitivity response of the system. As shown in Figure \ref{fig:joukowskiChamber}, the $y$ coordinate of the center of the original circle defines the camber. The tip displacement is proportional to the load on the structure, which itself depends on the integral of the pressure over the surface of the airfoil. Therefore, to calculate the tip displacement sensitivity, it is required to calculate the pressure sensitivity and integrate it over the airfoil boundary.
 
-The pressure field sensitivity on the top and bottom surfaces of the airfoil to camber line variation is shown in Figure \ref{fig:joukowskiChamberSensitivity}. The integral of these functions are used to calculate the sensitivity of tip displacement to the change in airfoil camber. We used complex step method to verify the sensitivity results. As shown in Table \ref{table:sensitivity}, the results of the continuum sensitivity analysis agree well with the complex step method.
+The pressure field sensitivity on the top and bottom surfaces of the airfoil to camber line variation is shown in Figure \ref{fig:joukowskiChamberSensitivity}.
 
 %
 	\begin{figure}[H]
@@ -727,18 +728,24 @@ The pressure field sensitivity on the top and bottom surfaces of the airfoil to 
 	\end{figure}
 %
 
+The integral of these functions are used to calculate the sensitivity of lift, drag, and pitching moment of the airfoil to the change in its camber. Moreover, the sensitivity of pressure field is utilized to calculate the sensitivity of tip displacement to the change in airfoil camber. We were able to match the continuum sensitivity analysis results with the complex step method. These results for two different airfoils are shown in Table \ref{table:sensitivity} where $L$ is lift force, $D$ is drag force, $M_c$ is pitching moment, and $\delta$ is the tip displacement.
+
 %
 \begin{table}[H]
 \centering
-\begin{tabular}{c|c|c|c}
- & \multicolumn{1}{c|}{CSA} & \multicolumn{1}{c|}{Complex step} & Airfoil \\ \hline
-$d\delta/dy_c$ & 0.441 & 0.441 & $J_1$ \\ \hline
-$d\delta/dy_c$ & 0.68 & 0.68 & $J_2$ \\
+\begin{tabular}{c|c|c}
+ & \multicolumn{2}{c}{Airfoil} \\ \cline{2-3}
+ & $J_1$ & $J_2$ \\ \hline \hline
+$dL/dy_c$ & 4.839 & 7.44 \\ \hline
+$dD/dy_c$ & 1.752 & 2.748 \\ \hline
+$dM_c/dy_c$ & 2.481 & 3.828 \\ \hline
+$d\delta/dy_c$ & 0.441 & 0.68 \\ \hline
 \end{tabular}
-\caption{Tip displacement sensitivity to camber}
+\caption{Sensitivity results.}
 \label{table:sensitivity}
 \end{table}
 %
+
 % ==========================================================================================
 \section{Summary Remarks}
 In this research, a continuum sensitivity analysis formulation is developed for the shape sensitivity analysis for the fluid-solid interaction problems. The flow is modelled as an incompressible, laminar, and viscous fluid where the Navier-Stokes equations are used to calculate the fluid response. The solid boundaries are modelled using the continuum formulation of immersed boundary method with an addition of feedback forcing function in the Navier-Stokes equations to represent the effect of solid boundaries. Using this approach, we were able to decouple the fluid mesh description from the shape of the solid boundary. This approach improves the robustness of the coupled high-fidelity simulations since no mesh deformation is needed to handle the solid region movement. Moreover, the sensitivity analysis is simplified since the local and total sensitivities are equal for this formulation. A nonlinear mapping function is used to couple the fluid and solid domain (Eulerian and Lagrangian) grids and map the data between these domains. As a requirement for continuum sensitivity analysis, the mapping function need to be $\mathcal{C}^1$ continuous. This is satisfied by proposing a novel regularized delta function that has continuous derivatives. The applicability of the proposed function is showed in this research.
